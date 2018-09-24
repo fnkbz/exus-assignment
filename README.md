@@ -36,4 +36,5 @@ curl --header "Content-Type: application/json" \
   localhost:8080/assignment/saveuser
 
 Execute get request to get all users
+
 curl 'localhost:8080/assignment/getusers'
