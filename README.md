@@ -34,6 +34,8 @@ select * from user;
 
 -Checkout the project
 
+-verify the db connection details at assignment\src\main\resources\application.properties
+
 -Navigate to the project's folder via command line and run it with the command 
 
 ```bash
