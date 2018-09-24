@@ -15,7 +15,7 @@ mysql> create user 'springuser'@'localhost' identified by 'springuser';
 ```
 
 ```bash
-mysql> grant all on db_example.* to 'springuser'@'localhost';
+mysql> grant all on assignment.* to 'springuser'@'localhost';
 ```
 Create the Users table
 
