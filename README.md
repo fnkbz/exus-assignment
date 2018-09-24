@@ -30,6 +30,7 @@ select * from user;
 mvn spring-boot:un
 
 Execute post request with curl to save a user
+
 curl --header "Content-Type: application/json" \
   --request POST \
   --data '{"first_name":"test","last_name":"test", "email":"test@gmail.com","gender":"male", "ip_address":"127.0.0.1" }' \
